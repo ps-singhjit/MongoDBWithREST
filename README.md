@@ -9,6 +9,7 @@
 docker-compose up -d
 ```
 or simply right click on docker-compose.yaml file and select "Compose up"(in VDCode editor)
+
 2. Run MongodemoApplication.java to initiate the spring application.
 
 ## Where to find Mongo Express
