@@ -13,7 +13,7 @@ or simply right click on docker-compose.yaml file and select "Compose up"(in VDC
 2. Run MongodemoApplication.java to initiate the spring application.
 
 ## Where to find Mongo Express
-After the docker image is up and running, got to below URL to find "studentdb"
+After the docker image is up and running, go to below URL to find "studentdb"
 ```
 http://localhost:8081/db/studentdb/student
 ```
